@@ -1,2 +1,2 @@
-# Docker-instinct
-Own way of Docker Hands-On
+# DevOps-instinct
+Own way of DevOps Hands-On
